@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-App ScreenShots:
+App ScreenShots
 ![phone](https://user-images.githubusercontent.com/35109053/109834151-e88d9280-7c67-11eb-875a-70557b9368be.png)
 
