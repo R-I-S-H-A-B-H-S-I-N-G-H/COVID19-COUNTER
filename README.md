@@ -1,6 +1,6 @@
-# corona_counter
+# Corona Counter
 
-A new Flutter project.
+Flutter based app on Covid-19 stats
 
 ## Getting Started
 
